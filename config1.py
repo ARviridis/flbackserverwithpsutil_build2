@@ -1,5 +1,5 @@
 import os
-version = 0.8554
+version = 0.8554 #ver_a_2
 
 server_name = "monitor"
 server_port = 80
